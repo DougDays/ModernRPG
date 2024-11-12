@@ -4,4 +4,4 @@
 </p>
 
 ### License
-This mod is a mod for Rimworl, this mod is used under the ).
+Mordern RimworldRPG MOD © 2024 by Doug Dias is licensed under [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
