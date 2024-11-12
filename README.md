@@ -4,4 +4,4 @@
 </p>
 
 ### License
-This mod is a mod for Rimworl, this mod is used under the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This mod is a mod for Rimworl, this mod is used under the ).
