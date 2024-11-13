@@ -1,0 +1,12 @@
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\bin\Debug\ModernRPG.deps.json
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\bin\Debug\ModernRPG.dll
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\bin\Debug\ModernRPG.pdb
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.AssemblyInfoInputs.cache
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.AssemblyInfo.cs
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.csproj.CoreCompileInputs.cache
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.sourcelink.json
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.dll
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\refint\ModernRPG.dll
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ModernRPG.pdb
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\ref\ModernRPG.dll

@@ -1,0 +1,6 @@
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.csproj.AssemblyReference.cache
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.AssemblyInfoInputs.cache
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.AssemblyInfo.cs
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.csproj.CoreCompileInputs.cache
+C:\GOG Games\RimWorld\Mods\Mordern_RimWoldRPG_Core\Source\ModernRPG\obj\Debug\net48\ModernRPG.sourcelink.json
