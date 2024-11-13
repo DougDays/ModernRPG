@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GOG Games\\RimWorld\\Mods\\Mordern_RimWoldRPG_Core\\Source\\ModernRPG\\ModernRPG.csproj": {}
+    "C:\\GOG Games\\RimWorld\\Mods\\MordernRPG\\Source\\ModernRPG\\ModernRPG.csproj": {}
   },
   "projects": {
-    "C:\\GOG Games\\RimWorld\\Mods\\Mordern_RimWoldRPG_Core\\Source\\ModernRPG\\ModernRPG.csproj": {
+    "C:\\GOG Games\\RimWorld\\Mods\\MordernRPG\\Source\\ModernRPG\\ModernRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GOG Games\\RimWorld\\Mods\\Mordern_RimWoldRPG_Core\\Source\\ModernRPG\\ModernRPG.csproj",
+        "projectUniqueName": "C:\\GOG Games\\RimWorld\\Mods\\MordernRPG\\Source\\ModernRPG\\ModernRPG.csproj",
         "projectName": "ModernRPG",
-        "projectPath": "C:\\GOG Games\\RimWorld\\Mods\\Mordern_RimWoldRPG_Core\\Source\\ModernRPG\\ModernRPG.csproj",
+        "projectPath": "C:\\GOG Games\\RimWorld\\Mods\\MordernRPG\\Source\\ModernRPG\\ModernRPG.csproj",
         "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-        "outputPath": "C:\\GOG Games\\RimWorld\\Mods\\Mordern_RimWoldRPG_Core\\Source\\ModernRPG\\obj\\",
+        "outputPath": "C:\\GOG Games\\RimWorld\\Mods\\MordernRPG\\Source\\ModernRPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config"

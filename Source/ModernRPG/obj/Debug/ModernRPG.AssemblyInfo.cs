@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("CC BY-NC-SA 4.0 2024")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("ModernRPG Rimworld Mod")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f637d2f340f256c3c7182afd065be222fa74efc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d329ee71394a29c9824339b8b879d86d082972")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModernRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModernRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
